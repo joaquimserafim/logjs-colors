@@ -1,0 +1,31 @@
+{
+  "name": "logjs-colors",
+  "version": "1.0.0",
+  "description": "a simple wrapper for the visionmedia/log.js module but with colors",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "log",
+    "logger",
+    "colors"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/joaquimserafim/logjs-colors.git"
+  },
+  "author": "@joaquimserafim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaquimserafim/logjs-colors/issues"
+  },
+  "homepage": "https://github.com/joaquimserafim/logjs-colors",
+  "dependencies": {
+    "chalk": "^0.4.0",
+    "log": "^1.4.0"
+  },
+  "devDependencies": {
+    "tape": "^2.13.2"
+  }
+}
